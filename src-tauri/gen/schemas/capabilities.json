@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default permissions for PDFLite core operations","local":true,"windows":["main"],"permissions":["core:default","opener:default","dialog:default","dialog:allow-open","dialog:allow-save","fs:default","fs:allow-read-file","fs:allow-write-file","fs:allow-exists"]}}
